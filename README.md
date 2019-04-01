@@ -1,5 +1,6 @@
 # Digital Stewards Training Program
-48% of the world does not have a connection to the internet.  How can this change?  
+## 48% of the world does not have a connection to the internet.  
+## How can this change?  
 One theory is the creation of community networks led by local organizations, stakeholders and citizens who take control of their own data infrastructure; thus allowing for less reliance on the telcom providers.
 
 This Digital Stewards training program is developed by SayCel Technologies in order to train local stakeholders, adults, youth, and students how to create, manage and maintain local based communications networks, with a special focus on emergency and cultural resilience.  
