@@ -41,11 +41,17 @@ Essentially a PNK
 #### Homework (In-class):  
 1. Get Raspberry Pi + RTL-SDR
 2. Install PNK on your Raspberry Pi
-3. SSH into your PNK
+3. SSH into your PNK if completed. If not completed, you can SSH into digitalocean account and do the following: 
 + + Create the folder "dog" in /etc/. 
 + + Create the file "bark" in the dog folder.
 + + take a screenshot to prove you created file.  
-4. Optional: [history of internet infrastructure](https://www.theatlantic.com/technology/archive/2015/11/how-railroad-history-shaped-internet-history/417414)
+4. Watch the following Videos:
++ [Antenna Fundametals 1](https://www.youtube.com/watch?v=7bDyA5t1ldU)
++ [Antenna Fundametals 2](https://www.youtube.com/watch?v=md7GjQQ2YA0)
+5. Sign up for Github account, create a repository called: YOUR-NAME-DIGITAL-STEWARD-REPO.  Send me your github handle.   
+6. sign up for [GitHub Student Developer Pack](https://education.github.com/pack)
+7. Sign up for Digital Ocean Account. Send me your credentials. Username and password. =
+8. Optional: [history of internet infrastructure](https://www.theatlantic.com/technology/archive/2015/11/how-railroad-history-shaped-internet-history/417414)
 
 ## Class 1 - April 8
 + Safety Training
