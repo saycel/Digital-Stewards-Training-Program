@@ -48,10 +48,11 @@ Essentially a PNK
 4. Watch the following Videos:
 + [Antenna Fundametals 1](https://www.youtube.com/watch?v=7bDyA5t1ldU)
 + [Antenna Fundametals 2](https://www.youtube.com/watch?v=md7GjQQ2YA0)
-+ In your github account, create a new file.  Call it Hmoework 0. Write a brief review of the videos you just watched.  
++ In your github account, create a new file.  Call it Homework 0. 
+Write a brief review of the videos you just watched.  
 5. Sign up for Github account, create a repository called: YOUR-NAME-DIGITAL-STEWARD-REPO.  Send me your github handle.   
 6. sign up for [GitHub Student Developer Pack](https://education.github.com/pack)
-7. Sign up for Digital Ocean Account. Send me your credentials. Username and password. =
+7. Sign up for Digital Ocean Account. Send me your credentials. Username and password. 
 8. Optional: [history of internet infrastructure](https://www.theatlantic.com/technology/archive/2015/11/how-railroad-history-shaped-internet-history/417414)
 
 ## Class 1 - April 8
