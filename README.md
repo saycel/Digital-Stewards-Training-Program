@@ -74,7 +74,11 @@ Write a brief review of the videos you just watched.
 + Safety Training 
 
 ## Class 4 - April 29
-+ Network Design - Ubiquiti
++ Review Terminal 
++ Network Design - Ubiquiti Mapping (https://link.ui.com/#)
++ + Line of Sight, Fresnel Zone, 2.4 Ghz, 5Ghz, 900MHz
++ Unifi Controller
++ Unifi Captive Portal 
 
 
 ## Class 5 - May 6
