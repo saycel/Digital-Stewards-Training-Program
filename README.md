@@ -9,13 +9,14 @@ In this class you learn how to create your own communications networks. We will 
 
 
 # Class Dates
-  0. April 1
-  1. April 8
-  2. April 15 
-  3. April 22
-  4. April 29
-  5. May 6
-  
+  1. April 1
+  2. April 8
+  3. April 15 
+  4. April 22
+  5. April 29
+  6. May 6
+  7. May 13
+  8. May 20
 # Office Hours
 I will be available for office hours by appointment on Tuesday from 10-11AM or Wednesdays 3-5PM.  
 Make your requests after class or via email: ereedsanchez@gmail.com    
