@@ -56,9 +56,9 @@ Write a brief review of the videos you just watched.
 8. Optional: [history of internet infrastructure](https://www.theatlantic.com/technology/archive/2015/11/how-railroad-history-shaped-internet-history/417414)
 
 ## Class 1 - April 8
-+ Safety Training
++ Terminal Workshop
 + Wifi Antenas and Radios
-+ Network Design - Ubiquiti
++ Build a PNK, burn image. 
 
 ## Class 2 - April 15
 + Terminal Workshop
