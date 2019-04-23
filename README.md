@@ -61,6 +61,20 @@ Write a brief review of the videos you just watched.
 + Network Design - Ubiquiti
 
 ## Class 2 - April 15
++ Terminal Workshop
++ Introduction to IP Addresses and Mikrotik Routers
++ Point to Point 
++ Point to Multipoint
+
 ## Class 3 - April 22
++ Review Terminal
++ Review IP Addresses and Mikrotik Routers
++ Review Point to Point 
++ Review Point to Multipoint
++ Safety Training 
+
 ## Class 4 - April 29
++ Network Design - Ubiquiti
+
+
 ## Class 5 - May 6
