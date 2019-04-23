@@ -27,7 +27,7 @@ Make your requests after class or via email: ereedsanchez@gmail.com
 Essentially a PNK
 
 # Syllabus
-## Class 0 - April 1
+## Class 1 - April 1
 ### Introduction to SayCel Digital Stewards Training Program
 + Student Introductions
 + Syllabus and expectations
@@ -38,47 +38,47 @@ Essentially a PNK
 + + Build a Portable Network Kit
 + Basic Terminal Workshop https://docs.google.com/presentation/d/1vC4GRdBTGGHK3SpnnhADtaiHsZ4400bR32sulqZbREQ/edit#slide=id.g34324c9b55_0_174
 
-#### Homework (In-class):  
-1. Get Raspberry Pi + RTL-SDR
-2. Install PNK on your Raspberry Pi
-3. SSH into your PNK if completed. If not completed, you can SSH into digitalocean account and do the following: 
+#### In-class work:  
+1. Install PNK on your Raspberry Pi
+2. SSH into your PNK if completed. If not completed, you can SSH into digitalocean account and do the following: 
 + + Create the folder "dog" in /etc/. 
 + + Create the file "bark" in the dog folder.
 + + take a screenshot to prove you created file.  
-4. Watch the following Videos:
+3. Watch the following Videos:
 + [Antenna Fundametals 1](https://www.youtube.com/watch?v=7bDyA5t1ldU)
 + [Antenna Fundametals 2](https://www.youtube.com/watch?v=md7GjQQ2YA0)
 + In your github account, create a new file.  Call it Homework 0. 
-Write a brief review of the videos you just watched.  
-5. Sign up for Github account, create a repository called: YOUR-NAME-DIGITAL-STEWARD-REPO.  Send me your github handle.   
-6. sign up for [GitHub Student Developer Pack](https://education.github.com/pack)
-7. Sign up for Digital Ocean Account. Send me your credentials. Username and password. 
+  
+
 8. Optional: [history of internet infrastructure](https://www.theatlantic.com/technology/archive/2015/11/how-railroad-history-shaped-internet-history/417414)
 
-## Class 1 - April 8
+## Class 2 - April 8
 + Terminal Workshop
 + Wifi Antenas and Radios
 + Build a PNK, burn image. 
 
-## Class 2 - April 15
+## Class 3 - April 15
 + Terminal Workshop
 + Introduction to IP Addresses and Mikrotik Routers
 + Point to Point 
 + Point to Multipoint
 
-## Class 3 - April 22
+## Class 4 - April 22
 + Review Terminal
 + Review IP Addresses and Mikrotik Routers
 + Review Point to Point 
 + Review Point to Multipoint
 + Safety Training 
 
-## Class 4 - April 29
+## Class 5 - April 29
 + Review Terminal 
 + Network Design - Ubiquiti Mapping (https://link.ui.com/#)
 + + Line of Sight, Fresnel Zone, 2.4 Ghz, 5Ghz, 900MHz
 + Unifi Controller
 + Unifi Captive Portal 
 
-
-## Class 5 - May 6
+Homework 
+. Sign up for Github account, create a repository called: YOUR-NAME-DIGITAL-STEWARD-REPO.  Send me your github handle.   
+6. sign up for [GitHub Student Developer Pack](https://education.github.com/pack)
+7. Sign up for Digital Ocean Account. Send me your credentials. Username and password. 
+## Class 6 - May 6
